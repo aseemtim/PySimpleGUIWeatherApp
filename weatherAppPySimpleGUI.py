@@ -1,5 +1,4 @@
 # Aseem Timalsina
-# c0839829
 
 # use 'py c0839829.py' to run the program. Using 'python c0839829.py'
 # may cause error.
@@ -9,7 +8,7 @@ import pyowm
 import time
 import requests
 
-owmKey = 'b5d209875bb6f3608c6d42b2f6609e31' # API key
+owmKey = '<API Key>' # API key
 weatherDataDict = {} 
 
 def getWeatherStats(city):
